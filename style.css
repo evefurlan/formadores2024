@@ -4,9 +4,10 @@ section {
     background: rgb(230, 800, 425);
     padding-bottom: 80px;
             padding-top: 80px;
-            display: flex; /*torna flexível = coloca um do lado do outro
-            justify-content: center; /*coloca no centro
+            display: flex; /*torna flexível = coloca um do lado do outro*/
+            justify-content: center; /*coloca no centro*/
     }
-            div {margin-right: 200px
+     
+    .chamada-texto {
+ 	margin-right: 5%;
 }
-    
