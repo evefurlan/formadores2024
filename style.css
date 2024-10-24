@@ -1,7 +1,7 @@
 body {background-color: rgb(204, 23, 174);
 color:rgb(119, 42, 243) }
 section {
-    background: rgb(red, green, blue);
+    background: blue;
     padding-bottom: 80px;
             padding-top: 80px;
             display: flex; /*torna flexível = coloca um do lado do outro*/
